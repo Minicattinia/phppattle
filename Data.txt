@@ -1,0 +1,5 @@
+https://auto.freecoin.store/claim.php?coin=BCN,Jz0O1NWxFG782ySCcLluQBojYYx3CKk3,a93184a48f651ccda8652a582e094b12,60
+https://auto.freecoin.store/claim.php?coin=EXS,Ix9YazZQBXg09fiHcSGcXEnrImuhosT3,a93184a48f651ccda8652a582e094b12,60
+https://auto.freecoin.store/claim.php?coin=RDD,n2Z5pEsf2soYrvyqNoLDdHP2T7701Dxj,a93184a48f651ccda8652a582e094b12,60
+https://auto.freecoin.store/claim.php?coin=TRX,6UfPv3H0wMND3NQysEgKso1NxWANnxYu,a93184a48f651ccda8652a582e094b12,60
+https://auto.freecoin.store/claim.php?coin=XTZ,G674USVV14mUK4nYrGQsXKphbmh5Y3n1,a93184a48f651ccda8652a582e094b12,60
